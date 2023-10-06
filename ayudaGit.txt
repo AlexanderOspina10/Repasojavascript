@@ -1,0 +1,11 @@
+echo "# Repasojavascript" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AlexanderOspina10/Repasojavascript.git
+git push -u origin main
+
+
+setencia "git init" dando click derecho a la carpeta y se abre con click derecho git bash.
+sentencia "git add ."
