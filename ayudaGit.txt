@@ -6,6 +6,12 @@ git branch -M main
 git remote add origin https://github.com/AlexanderOspina10/Repasojavascript.git
 git push -u origin main
 
+VINCULAR EL PROYECTO GLOBAL A github
 
 setencia "git init" dando click derecho a la carpeta y se abre con click derecho git bash.
 sentencia "git add ."
+setencia  git commit -m "Primer Commit" Es el mensaje que aparece al inicio
+git config user.email "ospinahincapie10@gmail.com"
+git config user.name "AlexanderOspina10"
+git remote add origin https://github.com/AlexanderOspina10/Repasojavascript.git
+git push -u origin main
